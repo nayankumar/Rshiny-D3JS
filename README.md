@@ -4,6 +4,8 @@ Do not change folder's name as it is the static part of R Shiny application.
 Put javascript file and css file inside the www folder.  
 
 # Requirements
+R  
+R Studio  
 shiny and dataset library
 
 # How to use
