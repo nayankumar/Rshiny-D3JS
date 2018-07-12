@@ -1,5 +1,6 @@
 # RshinyD3JS
-In the folder of RShiny_D3JS there are 1 folder and 2 files named www, ui.R and server.R which are the part of R Shiny application.  
+All the folders of this repository have common structure.   
+There are 1 folder and 2 files named www, ui.R and server.R which are the part of R Shiny application.  
 Do not change folder's name as it is the static part of R Shiny application.  
 Put javascript file and css file inside the www folder.  
 
