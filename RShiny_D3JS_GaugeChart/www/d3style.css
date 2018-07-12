@@ -1,0 +1,31 @@
+/* while we hover mouse over bar chart its color will be orange */
+.rect:hover {
+	fill: orange;
+}
+
+/* tooltip parameters */
+.toolTip {
+  position: absolute;
+  display: none;
+  min-width: 80px;
+  height: auto;
+  /* background-color:steelblue; */
+  background:linear-gradient(to right, #0c0 , #c00);
+  border: 1px solid linear-gradient(to right, #0c0 , #c00);
+  padding: 1px;
+  text-align: center;
+  font-weight:bold;
+  color:white;
+}
+
+/* axis stroke width and color */
+.tick line,path{
+  stroke-width: 2px;
+  stroke:black;
+}
+
+/* axis text color */
+.tick text{
+  fill:red;
+  font-weight:bold;
+}
